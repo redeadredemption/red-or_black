@@ -1,4 +1,4 @@
-# Red or Black Voting App
+# Red or Black?
 
 This is a simple Streamlit web application that allows users to vote for their favorite color between Red and Black. The app displays the current vote counts in a bar chart.
 
